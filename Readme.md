@@ -16,3 +16,4 @@ predict the class from an image. Load the model from .json and .hdf5 files.
 	example : python3 predict.py --json CNN_mnist.json --hdf5 CNN_mnist.hdf5 --img 9.jpg --preprocess False
 
 For more information about this dataset, look at this website : http://yann.lecun.com/exdb/mnist/
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python
